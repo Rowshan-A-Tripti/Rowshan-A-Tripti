@@ -1,70 +1,25 @@
-# Hi, I'm Rowhsan A. Tripti 👋
-
-Passionate MERN (MongoDB, Express.js, React.js, Node.js) stack developer | Open-source enthusiast | Tech explorer
-
-
-
-## 🚀 About Me
+### Hi there 👋, Hello there, I am Rowshan A. tripti
+#### a mern stack developer...
+![a mern stack developer...](https://scontent.fdac3-2.fna.fbcdn.net/v/t39.30808-6/408701476_892349159191926_6845495287303025509_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=783fdb&_nc_eui2=AeHY31RDX9HaUwEKeFiNV8z4s4aBRFecM8KzhoFEV5wzwv-fV2CxLJM0ZS2k8uLNsCMV0oQ_z6JHyfG58peG7K93&_nc_ohc=zT_JLy8Vz6oAX-qVbQs&_nc_zt=23&_nc_ht=scontent.fdac3-2.fna&oh=00_AfBoDaNupcv7uW6Sq6QSSOrDN0nJPqBNhPkT-s_2oOdF2w&oe=65789029)
 
 I'm a results-driven MERN stack developer with a flair for creating robust and scalable web applications. My journey in the tech world is fueled by a deep passion for innovation and a commitment to delivering high-quality solutions.
 
-- 💼 Currently working on [Your Current Project]
-- 🌱 Learning and exploring new technologies to stay ahead of the curve
-- 💬 Let's connect! email: tripti.darkeye@gmail.com
+Skills:  REACT / JS / HTML / CSS/MongoDB
 
-## 🛠️ Tech Stack
-
-
-- **Frontend:** React.js, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Tools:** Git, VS Code, Postman
-
-- ### Professional Goals:
-
-1. **Mastery of the Craft:**
-   - Strive for mastery in the MERN stack and explore cutting-edge technologies.
-   - Pursue certifications and training to deepen technical expertise.
-
-2. **Open Source Contribution:**
-   - Actively contribute to open-source projects, fostering a collaborative and giving community spirit.
-   - Provide tools and resources that benefit developers globally.
-
-3. **Mentorship and Education:**
-   - Mentor aspiring developers, sharing experiences and knowledge to facilitate their growth.
-   - Contribute to educational initiatives, bridging the gap between theoretical learning and practical application.
-
-4. **Ethical Development:**
-   - Advocate for ethical coding practices and the responsible use of technology.
-   - Prioritize security, privacy, and inclusivity in all development endeavors.
-
-## 🚀 Projects
-
-Here are a few projects that showcase my skills:
-
-1. [Project 1](link-to-project-1): A brief description of the project and your role.
-2. [Project 2](link-to-project-2): Another noteworthy project and your contributions.
-
-Feel free to explore them and provide feedback!
-
-## 🌱 What I'm Learning
-
-I'm currently focused on enhancing my skills in:
-
-- NextJs
+- 🔭 I’m currently working on personal project 
+- 🌱 I’m currently learning next Js 
+- 📫 How to reach me: email: tripti.darkeye@gmail.com 
 
 
-## 📊 GitHub Statistics
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rowshan-A-Tripti)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100052505502367)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rowshan-A-Tripti)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rowshan-A-Tripti)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rowshan-A-Tripti&show_icons=true)  
 
-## 🤝 Let's Connect
+![GitHub metrics](https://metrics.lecoq.io/Rowshan-A-Tripti)  
 
-- [Facrbook](https://www.facebook.com/profile.php?id=100052505502367)
-- [Email](tripti.darkey@gmail.com)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Rowshan-A-Tripti)  
 
-I'm always open to exciting projects, collaborations, and new opportunities. Let's create something amazing together!
-
-**Happy coding!**
