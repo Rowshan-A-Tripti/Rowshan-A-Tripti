@@ -20,6 +20,24 @@ I'm a results-driven MERN stack developer with a flair for creating robust and s
 - **Database:** MongoDB
 - **Tools:** Git, VS Code, Postman
 
+- ### Professional Goals:
+
+1. **Mastery of the Craft:**
+   - Strive for mastery in the MERN stack and explore cutting-edge technologies.
+   - Pursue certifications and training to deepen technical expertise.
+
+2. **Open Source Contribution:**
+   - Actively contribute to open-source projects, fostering a collaborative and giving community spirit.
+   - Provide tools and resources that benefit developers globally.
+
+3. **Mentorship and Education:**
+   - Mentor aspiring developers, sharing experiences and knowledge to facilitate their growth.
+   - Contribute to educational initiatives, bridging the gap between theoretical learning and practical application.
+
+4. **Ethical Development:**
+   - Advocate for ethical coding practices and the responsible use of technology.
+   - Prioritize security, privacy, and inclusivity in all development endeavors.
+
 ## 🚀 Projects
 
 Here are a few projects that showcase my skills:
